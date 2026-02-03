@@ -16,7 +16,6 @@ Education and Research Experience
 
 Publications
 ======
-
 3D Computer Vision / Computational Geometry / Generative Models
 ------
 1. **Kaiyue Zhou**, Ming Dong\*, Suzan Arslanturk. "Zero-Shot" Point Cloud Upsampling. *ICME 2022*.
@@ -27,7 +26,6 @@ Publications
 1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Zhenyu Wang, Ya-li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
 1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-li Li, Shengjin Wang\*. Preserving Topological and Geometric Embeddings for Point Cloud Recovery. *AAAI 2026*.
 1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. Multimodal Multi-Agent Empowered Legal Judgment Prediction. *ICASSP 2026*.
-
 AI for Science
 ------
 1. **Kaiyue Zhou**, Suzan Arslanturk\*, Douglas B Craig, Elisabeth Heath, Sorin Draghici. Discovery of Primary Prostate Cancer Biomarkers using Cross Cancer Learning. *Scientific Reports 2021*.
