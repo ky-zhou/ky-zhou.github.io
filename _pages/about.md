@@ -27,9 +27,9 @@ Publications
 1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. Multimodal Multi-Agent Empowered Legal Judgment Prediction. *ICASSP 2026*.
 
 AI for Science:
-1. **Kaiyue Zhou**, Suzan Arslanturk\*, Douglas B Craig, Elisabeth Heath, Sorin Draghici. Discovery of Primary Prostate Cancer Biomarkers using Cross Cancer Learning. *Scientific Reports 2021*.
+1. **Kaiyue Zhou**, Suzan Arslanturk\*, Douglas B Craig, Elisabeth Heath, Sorin Draghici. Discovery of Primary Prostate Cancer Biomarkers using Cross Cancer Learning. *Scientific Reports[J] 2021*.
 1. **Kaiyue Zhou**, Bhagya Shree Kottoori, Seeya Awadhut Munj, Zhewei Zhang, Sorin Draghici, Suzan Arslanturk\*. Integration of Multimodal Data from Disparate Sources for Identifying Disease Subtypes. *Biology[J] 2022*. 
-1. Jiahe Zhu, **Kaiyue Zhou**, Huan Zhang, Shengjin Wang, Hongbing Ma\*. Cross Teaching Between Single-spectral and Multi-spectral Detection Transformers for Remote Sensing Object Detection. *IEEE International Geoscience and Remote Sensing Symposium 2024*.
+1. Jiahe Zhu, **Kaiyue Zhou**, Huan Zhang, Shengjin Wang, Hongbing Ma\*. Cross Teaching Between Single-spectral and Multi-spectral Detection Transformers for Remote Sensing Object Detection. *IGARSS 2024*.
 1. Zelong Tan, **Kaiyue Zhou**, Jiahe Zhu, Shengjin Wang\*, Hongbing Ma. Semantic Enhancement via Vessel Decomposition: Two-Stage Coronary Artery Segmentation. *ICIC 2025*.
 1. **Kaiyue Zhou**†, Bhagya Shree Kottoori†, Seeya Awadhut Munj, Guangyu Dong, Suzan Arslanturk\*, Shengjin Wang\*. Unveiling Histopathological Features for Breast Cancers using Limited Data. *ICIVC 2025*.
 
