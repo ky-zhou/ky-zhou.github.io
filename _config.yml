@@ -23,7 +23,7 @@ repository               : "https://github.com/ky-zhou"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Kaiyue Zhou"
   pronouns         : # example: "she/her"  
   bio              : "3D Computer Vision, Computatinal Geometry, Generative Models, AI for Science"
