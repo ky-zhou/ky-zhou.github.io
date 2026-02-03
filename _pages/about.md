@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Intro
+About Me
+======
+I received the Ph.D. degree in Computer Science from Wayne State University, Detroit, Michigan, USA, in 2021. I was a postdoc researcher at the Department of Electronic Engineering, Tsinghua University, Beijing, China from 2022 to 2024. I am currently working in startup companies Chengdu Minto Tech and Wespark.
 
 A data-driven personal website
 ======
