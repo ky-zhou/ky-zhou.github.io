@@ -22,7 +22,7 @@ Publications
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification. *ICME 2024*.
 1. **Kaiyue Zhou**, Zelong Tan, Shu Yang, Shengjin Wang\*. Enhancing the Encoding Process in Point Cloud Completion. *ICCPR 2024*.
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation. *IEEE Sensors Journal 2025*.
-1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Zhenyu Wang, Ya-li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
+1. **Kaiyue Zhou**, Zhenyu Wang, Ya-li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
 1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-li Li, Shengjin Wang\*. Preserving Topological and Geometric Embeddings for Point Cloud Recovery. *AAAI 2026*.
 1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. Multimodal Multi-Agent Empowered Legal Judgment Prediction. *ICASSP 2026*.
 
