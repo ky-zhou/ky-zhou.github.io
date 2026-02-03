@@ -20,12 +20,12 @@ Publications
 ======
 3D Computer Vision / Computational Geometry / Generative Models:
 1. **Kaiyue Zhou**, Ming Dong\*, Suzan Arslanturk. ["Zero-Shot" Point Cloud Upsampling](https://ieeexplore.ieee.org/document/9859662). *ICME 2022*.
-1. Peiyuan Zhi, **Kaiyue Zhou**, Yali Li, Shengjin Wang\*. [Feature Decoupling and Uncertainty Estimation for 3D Object Detection](https://ieeexplore.ieee.org/document/10219827). *ICME 2023*.
+1. Peiyuan Zhi, **Kaiyue Zhou**, Ya-Li Li, Shengjin Wang\*. [Feature Decoupling and Uncertainty Estimation for 3D Object Detection](https://ieeexplore.ieee.org/document/10219827). *ICME 2023*.
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. [Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification](https://ieeexplore.ieee.org/document/10687949). *ICME 2024*.
 1. **Kaiyue Zhou**, Zelong Tan, Shu Yang, Shengjin Wang\*. [Enhancing the Encoding Process in Point Cloud Completion](https://dl.acm.org/doi/10.1145/3704323.3704330). *ICCPR 2024*.
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. [Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation](https://ieeexplore.ieee.org/document/10794612). *IEEE Sensors Journal [J] 2025*.
-1. **Kaiyue Zhou**, Zhenyu Wang, Ya-li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
-1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-li Li, Shengjin Wang\*. Preserving Topological and Geometric Embeddings for Point Cloud Recovery. *AAAI 2026*.
+1. **Kaiyue Zhou**, Zhenyu Wang, Ya-Li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
+1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-Li Li, Shengjin Wang\*. Preserving Topological and Geometric Embeddings for Point Cloud Recovery. *AAAI 2026*.
 1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. Multimodal Multi-Agent Empowered Legal Judgment Prediction. *ICASSP 2026*.
 
 AI for Science:
