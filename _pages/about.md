@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the Ph.D. degree in Computer Science from Wayne State University, Detroit, Michigan, USA, in 2021. I was a postdoc researcher at the Department of Electronic Engineering, Tsinghua University, Beijing, China, from 2022 to 2024. I am currently working as CTO at a startup company WesPark.
+I received the Ph.D. degree in Computer Science from Wayne State University, Detroit, Michigan, USA, in 2021. I was a postdoc researcher at the Department of Electronic Engineering, Tsinghua University, Beijing, China, from 2022 to 2024. I am currently working as CTO at a startup company WesPark, and as the executive director of Sichuan Intelligent Digital Human Engineering Technology Research Center, Chengdu Minto Tech.
 
 Email: kyzhou AT wayne DOT edu
 
@@ -18,15 +18,18 @@ Education and Research Experience
 
 Publications
 ======
-3D Computer Vision / Computational Geometry / Generative Models:
+3D Computer Vision / Computational Geometry:
 1. **Kaiyue Zhou**, Ming Dong\*, Suzan Arslanturk. ["Zero-Shot" Point Cloud Upsampling](https://ieeexplore.ieee.org/document/9859662). *ICME 2022*.
 1. Peiyuan Zhi, **Kaiyue Zhou**, Ya-Li Li, Shengjin Wang\*. [Feature Decoupling and Uncertainty Estimation for 3D Object Detection](https://ieeexplore.ieee.org/document/10219827). *ICME 2023*.
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. [Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification](https://ieeexplore.ieee.org/document/10687949). *ICME 2024*.
 1. **Kaiyue Zhou**, Zelong Tan, Shu Yang, Shengjin Wang\*. [Enhancing the Encoding Process in Point Cloud Completion](https://dl.acm.org/doi/10.1145/3704323.3704330). *ICCPR 2024*.
 1. **Kaiyue Zhou**, Ming Dong, Peiyuan Zhi, Shengjin Wang\*. [Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation](https://ieeexplore.ieee.org/document/10794612). *IEEE Sensors Journal [J] 2025*.
-1. **Kaiyue Zhou**, Zhenyu Wang, Ya-Li Li, Shengjin Wang\*. Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery. *ACAI 2025*.
-1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-Li Li, Shengjin Wang\*. Preserving Topological and Geometric Embeddings for Point Cloud Recovery. *AAAI 2026*.
-1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. Multimodal Multi-Agent Empowered Legal Judgment Prediction. *ICASSP 2026*.
+1. **Kaiyue Zhou**, Zhenyu Wang, Ya-Li Li, Shengjin Wang\*. [Hybrid Sampling with Mixed Shape and Seed Representations for Point Cloud Recovery](https://ieeexplore.ieee.org/document/11406433). *ACAI 2025*.
+1. **Kaiyue Zhou**, Zelong Tan, Hongxiao Wang, Ya-Li Li, Shengjin Wang\*. [Preserving Topological and Geometric Embeddings for Point Cloud Recovery](https://ojs.aaai.org/index.php/AAAI/article/view/38376). *AAAI 2026*.
+
+MLLMs:
+1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. [Multimodal Multi-Agent Empowered Legal Judgment Prediction](https://ieeexplore.ieee.org/document/11462917). *ICASSP 2026*.
+1. Bo-Cheng Hu, Zhonghan Zhao, **Kaiyue Zhou**\*, Hongwei Wang, Gaoang Wang\*. DynaHOI: Benchmarking Hand-Object Interaction for Dynamic Target. *ACM MM 2026*.
 
 AI for Science:
 1. **Kaiyue Zhou**, Suzan Arslanturk\*, Douglas B Craig, Elisabeth Heath, Sorin Draghici. [Discovery of Primary Prostate Cancer Biomarkers using Cross Cancer Learning](https://www.nature.com/articles/s41598-021-89789-x#:~:text=In%20this%20paper%2C%20we%20have%20discovered%20novel%20biomarkers,pathways%20of%20ovarian%2C%20prostate%2C%20and%20breast%20cancer%20tumors.). *Scientific Reports [J] 2021*.
@@ -39,22 +42,22 @@ AI for Science:
 Services
 ======
 Reviewer:
-- ICME 2023
-- ICME 2024
-- AAAI 2026
-- ICASSP 2026
+- 2023: ICME
+- 2024: ICME
+- 2026: AAAI, ICASSP, ACM MM, NeurIPS
 
 Session Chair or Co-Chair:
-- ICME 2022
-- AAAI 2026
+- 2022: ICME
+- 2026: AAAI
 
 Program Committee:
-- CCCG 2026
+- 2026: CCCG
 
 
 Talks
 ======
-Predicting Prostate Cancer Biomarkers using Deep Learning. Chinese-German Society for Translational Medicine (CDGTM)，*Jul 07, 2021*.
+**Chinese-German Society for Translational Medicine (CDGTM)**: Predicting Prostate Cancer Biomarkers using Deep Learning. *Jul 07, 2021*.
+**ASEAN AI Hackathon 2026 Workshop: Boundless Intelligent Innovation**: AI Wave and New Opportunities for International Collaboration Among Southeast Asian Youth. *May 27, 2026*.
 
 Awards
 ======
