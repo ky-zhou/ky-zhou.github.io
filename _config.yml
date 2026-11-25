@@ -27,7 +27,7 @@ author:
   name             : "Kaiyue Zhou"
   pronouns         : # example: "she/her"  
   bio              : "3D Computer Vision, Computatinal Geometry, MLLMs, AI for Science"
-  location         : "Japan"
+  location         : # "Japan"
   employer         : "SEDDA"
   uri              : # URL
   email            : # URL
