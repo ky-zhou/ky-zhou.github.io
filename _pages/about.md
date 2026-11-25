@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the Ph.D. degree in Computer Science from Wayne State University, Detroit, Michigan, USA, in 2021. I was a postdoc researcher at the Department of Electronic Engineering, Tsinghua University, Beijing, China, from 2022 to 2024. I am currently working as CTO at a startup company WesPark, and as the executive director of Sichuan Intelligent Digital Human Engineering Technology Research Center, Chengdu Minto Tech.
+I received the Ph.D. degree in Computer Science from Wayne State University, Detroit, Michigan, USA, in 2021. I was a postdoc researcher at the Department of Electronic Engineering, Tsinghua University, Beijing, China, from 2022 to 2024. I am currently working as CTO at SEDDA.
 
 Email: kyzhou AT wayne DOT edu
 
@@ -29,7 +29,9 @@ Publications
 
 MLLMs:
 1. Zhaolu Kang, Junhao Gong, Qingxi Chen, Hao Zhang, Jiaxin Liu, Rong Fu, Zhiyuan Feng, Yuan Wang, Simon Fong, **Kaiyue Zhou**\*. [Multimodal Multi-Agent Empowered Legal Judgment Prediction](https://ieeexplore.ieee.org/document/11462917). *ICASSP 2026*.
-1. Bo-Cheng Hu, Zhonghan Zhao, **Kaiyue Zhou**\*, Hongwei Wang, Gaoang Wang\*. DynaHOI: Benchmarking Hand-Object Interaction for Dynamic Target. *ACM MM 2026*.
+2. Bo-Cheng Hu, Zhonghan Zhao, **Kaiyue Zhou**\*, Hongwei Wang, Gaoang Wang\*. [DynaHOI: Benchmarking Hand-Object Interaction for Dynamic Target](https://dl.acm.org/doi/10.1145/3767308.3835402). *ACM MM 2026*.
+3. Zhaolu Kang, Tailong Luo, Chenxin Li, Yingjie He, Zhenyu Yu, Fengyu Zhou, Jiachen Qian, Lei Wei, Shuang Chen, Jiachen Li, Eric Hanchen Jiang, Rongchao Zhang, Zhengtao Yao, Hoi Leong Lee, Guansu Wang, **Kaiyue Zhou**\*. [Behavior Pack Optimization for Video MLLM Post-Training](https://openreview.net/pdf?id=dnqyvgz1LI). NeurIPS 2026.
+4. Zhaolu Kang, Shiyu Liu, Tailong Luo, Wei Zhang, Yingjie He, Guangyuan Dong, Lei Wei, Guansu Wang, Liang He, Siheng Wang, Jiaqi Su, Shuang Chen, Haoyu Ji, Qishi Zhan, **Kaiyue Zhou**\*. [RECAP: Looking Once Is Not Enough for Vision-Language Reasoning](https://openreview.net/pdf?id=UKko2Zrtpd). NeurIPS 2026.
 
 AI for Science:
 1. **Kaiyue Zhou**, Suzan Arslanturk\*, Douglas B Craig, Elisabeth Heath, Sorin Draghici. [Discovery of Primary Prostate Cancer Biomarkers using Cross Cancer Learning](https://www.nature.com/articles/s41598-021-89789-x#:~:text=In%20this%20paper%2C%20we%20have%20discovered%20novel%20biomarkers,pathways%20of%20ovarian%2C%20prostate%2C%20and%20breast%20cancer%20tumors.). *Scientific Reports [J] 2021*.
@@ -45,6 +47,7 @@ Reviewer:
 - 2023: ICME
 - 2024: ICME
 - 2026: AAAI, ICASSP, ACM MM, NeurIPS
+- 2027: ICLR, ICASSP, ACL ARR
 
 Session Chair or Co-Chair:
 - 2022: ICME
@@ -57,6 +60,7 @@ Program Committee:
 Talks
 ======
 **Chinese-German Society for Translational Medicine (CDGTM)**: Predicting Prostate Cancer Biomarkers using Deep Learning. *Jul 07, 2021*.
+
 **ASEAN AI Hackathon 2026 Workshop: Boundless Intelligent Innovation**: AI Wave and New Opportunities for International Collaboration Among Southeast Asian Youth. *May 27, 2026*.
 
 Awards
